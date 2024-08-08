@@ -13,6 +13,7 @@ My journey in BI Developer career has led me to develop a passion for data engin
 |-----------------------------------------------|----------------------------|
 | Data cleaning and manipulations with Pandas   | <a href="https://github.com/aasafreja/airbnb-data">NY Airbnb data</a>|
 | ETL pipelines                                 | <a href="https://github.com/aasafreja/airbnb-data">NY Airbnb data</a>|
+| Fetching data from API                                 | <a href="https://github.com/aasafreja/Weather-API">Weather API</a>|
 
 
 ## Projects
