@@ -13,10 +13,13 @@ This still developing Data Engineer portfolio is dedicated to showcasing my Pyth
 |-----------------------------------------------|----------------------------|
 | Data cleaning and manipulations with Pandas   | <a href="https://github.com/aasafreja/airbnb-data-etl">NY Airbnb data</a>|
 | ETL pipelines                                 | <a href="https://github.com/aasafreja/airbnb-data-etl">NY Airbnb data</a>|
-| Fetching data from API                                 | <a href="https://github.com/aasafreja/Weather-API">Weather API</a>|
+| Fetching data from API                        | <a href="https://github.com/aasafreja/Weather-API">Weather API</a>|
 | Airflow DAG creation                          |<a href="https://github.com/aasafreja/Weather-API">Weather API</a>|
+| PySpark for Data Processing                   |<a href="https://github.com/aasafreja/data_quality_monitoring">Data Quality Monitoring</a>|
+| Email Automation                              |<a href="https://github.com/aasafreja/data_quality_monitoring">Data Quality Monitoring</a>|
 
 
 ## Projects
 - NY Airbnb data
 - Weather API
+- Data Quality Monitoring
