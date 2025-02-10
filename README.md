@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/anete-asafreja-a03231138/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a BI Developer with 3+ years of experience, currently transitioning into the Data Engineering space. I bring a wealth of experience in transforming raw data into actionable insights and a proven track record in leveraging Python for sophisticated data analysis and automation solutions. 
+I am a BI Developer with 3+ years of experience. I bring a wealth of experience in transforming raw data into actionable insights and a proven track record in leveraging Python for sophisticated data analysis and automation solutions. 
 
 
 ## Objective
